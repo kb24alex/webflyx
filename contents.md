@@ -3,7 +3,7 @@
 - classics.csv: A comma-separated list of classic movies
 - quotes: A directory of files containing memorable quotes from movies
 
-##Movie titles
+#Movie titles
 title, director, year
 One Crazy Summer, Savage Steve Holland, 1986
 The Princess Bride, Rob Reiner, 1987
